@@ -1,1 +1,2 @@
-/src/credentials/serviceAccountKey.json
+/src/credentials
+node_modules
